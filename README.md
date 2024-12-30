@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://reactjs.org/](https://www.linkedin.com/in/md-rakib-mostofa/" target="_blank" rel="noreferrer">Linkedin</a> 
+    <a href="https://www.linkedin.com/in/md-rakib-mostofa/" target="_blank" rel="noreferrer">Linkedin</a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
