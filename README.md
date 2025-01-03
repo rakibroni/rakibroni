@@ -40,4 +40,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibroni&show_icons=true&locale=en&layout=compact" alt="rakibroni" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibroni&show_icons=true&locale=en" alt="rakibroni" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibroni&" alt="rakibroni" /></p>
