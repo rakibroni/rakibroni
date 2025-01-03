@@ -2,6 +2,8 @@
 <h3 align="center">A passionate and detail-oriented Full-Stack Web and Mobile Application Developer with experience in creating high-quality web and mobile solutions. I bring expertise in developing efficient, responsive, and user-friendly applications tailored to meet dynamic business requirements. Based in Chemnitz, Germany, I hold a Master’s degree in Automotive Software Engineering and have a strong foundation in Computer Science and Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibroni&label=Profile%20views&color=0e75b6&style=flat" alt="rakibroni" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibroni" alt="rakibroni" /></a> </p>
+
 
 
 - 🔭 I’m currently working on [Tradefoox](https://tradefoox.com/)
