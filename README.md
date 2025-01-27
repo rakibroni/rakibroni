@@ -12,7 +12,7 @@
   <li> 🤝 I’m looking for help with exploring advanced backend optimizations, and microservices architecture using Golang.</li>
   <li>🌱 I’m currently learning many things. I believe every day is an opportunity to grow!</li>
   <li>💬 Ask me about React.js, React Native, API development, PHP, Laravel, performance optimization, or mobile-first design principles.</li> 
-  <li>📫 How to reach me: You can connect with me on <a href="https://www.linkedin.com/in/md-rakib-mostofa/">LinkedIn</a>  or drop me an email anytime <a href="mailto:rakibronicse@gamil.com">rakibronicse@gamil.com</a>!</li> 
+  <li>📫 How to reach me: You can connect with me on <a href="https://www.linkedin.com/in/md-rakib-mostofa/">LinkedIn</a>  or drop me an email anytime <a href="mailto:rakibronicse@gamil.com">rakibronicse@gmail.com</a>!</li> 
   <li>⚡ Fun fact: I’m a curious traveller and a sports enthusiast! I love football, cricket, table tennis, FIFA, and poker. I also enjoy brainstorming ideas, problem-solving, and mentoring budding developers.</li>
 </ul> 
 
