@@ -1,29 +1,84 @@
-# 💫 About Me:
-<h4 align="justify">A passionate and detail-oriented Full-Stack Web and Mobile Application Developer with experience in creating high-quality web and mobile solutions. I bring expertise in developing efficient, responsive, and user-friendly applications tailored to meet dynamic business requirements. Based in Chemnitz, Germany, I hold a Master’s degree in Automotive Software Engineering and have a strong foundation in Computer Science and Engineering.</h4>
+<div align="center">
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 💫 Professional Profile
 
+**Full-Stack Developer | Web & Mobile Applications**  
+*Chemnitz, Germany*
 
+</div>
 
-<ul>
-  <li>🔭 I’m currently working on React.js, React Native, TypeScript, and Golang to build scalable and user-friendly applications.</li>
-  <li>👯 I’m looking to collaborate on innovative projects, open-source contributions, and building tools that improve developer productivity. </li>
-  <li> 🤝 I’m looking for help with exploring advanced backend optimizations, and microservices architecture using Golang.</li>
-  <li>🌱 I’m currently learning many things. I believe every day is an opportunity to grow!</li>
-  <li>💬 Ask me about React.js, React Native, API development, PHP, Laravel, performance optimization, or mobile-first design principles.</li> 
-  <li>📫 How to reach me: You can connect with me on <a href="https://www.linkedin.com/in/md-rakib-mostofa/" target="_blank">LinkedIn</a>  or drop me an email anytime <a href="mailto:rakibronicse@gamil.com">rakibronicse@gmail.com</a>!</li> 
-  <li>⚡ Fun fact: I’m a curious traveller and a sports enthusiast! I love football, cricket, table tennis, FIFA, and poker. I also enjoy brainstorming ideas, problem-solving, and mentoring budding developers.</li>
-</ul> 
+<h4 align="justify">
+I am a passionate and detail-oriented <b>Full-Stack Web & Mobile Application Developer</b> with experience in building high-quality, scalable, and user-friendly digital solutions.<br/><br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rakibroni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rakibroni&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibroni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+My expertise spans <b>frontend and backend development</b>, creating seamless applications that blend performance, usability, and clean architecture.<br/><br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Currently based in <b>Chemnitz, Germany</b>, I hold a <b>Master’s degree in Automotive Software Engineering</b> and a <b>Bachelor’s degree in Computer Science & Engineering</b>.<br/><br/>
+
+I enjoy tackling complex problems, contributing to innovative projects, and continuously learning to stay ahead in the ever-evolving tech landscape.
+</h4>
+
 ---
+
+## 🛠️ Technical Stack
+
+### **Frontend & Mobile**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### **Backend & Databases**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibroni&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibroni&theme=dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibroni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+ </div>
+
+---
+
+## 🎯 Current Focus
+
+- **Developing** scalable applications with React.js, React Native, TypeScript, and Golang
+- **Collaborating** on innovative projects and open-source initiatives
+- **Exploring** advanced backend optimizations and microservices architecture
+- **Mentoring** aspiring developers and contributing to tech community
+
+---
+
+## 💬 Let's Connect
+
+- 📫 **Email**: [rakibronicse@gmail.com](mailto:rakibronicse@gmail.com)
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/md-rakib-mostofa/)
+- 🎯 **Expertise**: React.js, React Native, API development, PHP, Laravel, performance optimization
+
+---
+
+<div align="center">
+
+### ✍️ Developer Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 [![](https://visitcount.itsvg.in/api?id=rakibroni&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
