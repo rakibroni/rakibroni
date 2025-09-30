@@ -49,11 +49,11 @@ I enjoy tackling complex problems, contributing to innovative projects, and cont
 
 ## 📈 GitHub Analytics
 
-<div align="center"> 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakibroni&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibroni&theme=dark&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibroni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
- </div>
+</p>
 
 ---
 
